@@ -1,1 +1,1 @@
-# MyAmazoneCloneApp
+# MyAmazonCloneApp
